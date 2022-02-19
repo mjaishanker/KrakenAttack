@@ -1,0 +1,77 @@
+fileFormatVersion: 2
+guid: 4c3bdfe3f00359b4e9e79453f26394b0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenHit
+    second: {fileID: 7400000, guid: b8a1ea50320267b439b9a47414b8a86f, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdle
+    second: {fileID: 7400000, guid: 86da4f807cdc7b5408780a1deae08747, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.001
+    second: {fileID: 7400000, guid: 10fb4343dfee7034fa879246f3d9b45e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.002
+    second: {fileID: 7400000, guid: 595d1dca2a674f948b18799705350555, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.003
+    second: {fileID: 7400000, guid: f5128300f83705d47a9a5643d9de3df5, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle2_Hit_Action_Baked
+    second: {fileID: 7400000, guid: 960777b15ce424b4b9c9128a58305f35, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle2_Hit_Action_Baked.001
+    second: {fileID: 7400000, guid: 14d08e2494cca744da65e3257e584f2e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle2_Hit_Action_Baked.002
+    second: {fileID: 7400000, guid: f3ca11e4d7b2e4748818c74d3ffe42a1, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle2_Hit_Action_Baked.003
+    second: {fileID: 7400000, guid: 106761499fa52104f9141af163400b34, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle_2_Hit_Action
+    second: {fileID: 7400000, guid: fd6dca06c432eea43b363c8b41057128, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle_2_Idle_Action
+    second: {fileID: 7400000, guid: a1ead69a4ce51034996c66f33699d132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TentacleMaterial
+    second: {fileID: 2100000, guid: 91f0ea0e61af2ef44a821935cbb82390, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: SuckersTexture
+    second: {fileID: 2800000, guid: 3227d1fcd64be004f80295f32b7648e1, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: c8c7a142e3862db4a8874f2e4853444c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenHit
+    second: {fileID: 7400000, guid: e41fa284dede41e45a2e94b318576bdf, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdle
+    second: {fileID: 7400000, guid: 51650c76c76b0584799082b0826b3ecc, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1
+    second: {fileID: 7400000, guid: de1e87d3bdba0484ea215758ccbc8451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TentacleMaterial
+    second: {fileID: 2100000, guid: a3f87850dc9d8174baf53b25f2af4f4e, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: SuckersTexture
+    second: {fileID: 2800000, guid: c1be8b02a2e0cff458d05f189fd80af8, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1

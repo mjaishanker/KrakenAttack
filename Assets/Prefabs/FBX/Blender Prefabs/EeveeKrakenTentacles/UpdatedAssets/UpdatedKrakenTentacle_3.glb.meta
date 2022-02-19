@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 0794000fe12cc7745bb0fcbf815cd89c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenHit.001
+    second: {fileID: 7400000, guid: 1c128e3ccf686c741b1007cae890c904, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdle.001
+    second: {fileID: 7400000, guid: c896b441f53df3346949f226f30dbed8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.007
+    second: {fileID: 7400000, guid: aef2ce8e60f852241ba0055c77a61ecc, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.008
+    second: {fileID: 7400000, guid: 95db35efceec23045afe4349f22bcdf3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenIdleAction1.009
+    second: {fileID: 7400000, guid: 7f55b1bfa9e91794fa1ca5b6ad38294c, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle_3_Hit_Action_Baked
+    second: {fileID: 7400000, guid: 97d16ef9d395e9840aa3b9f651bcb37d, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: KrakenTentacle_3_IdleAnimation_Baked
+    second: {fileID: 7400000, guid: 3aef2613d5351044ea8ea93e9f626e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TentacleMaterial.001
+    second: {fileID: 2100000, guid: 0766e2907a6391442b4f55012c6e74fd, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: SuckersTexture
+    second: {fileID: 2800000, guid: 5a3705de8a2ae774fb7767148ba5ffa9, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

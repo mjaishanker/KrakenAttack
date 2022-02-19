@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b9f9cec0d7f71134fb30e52033565687
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KrakenEyeMaterial
+    second: {fileID: 2100000, guid: 7b8e370599e468e45b484bd69443de49, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: KrakenEyeTexture
+    second: {fileID: 2800000, guid: 01beda53c5582a14fa3b752187fd4926, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
